@@ -1,8 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I’m a UX/UI designer with a background in editing and instructional design. I have experience working in the education, healthcare industries and several Fortune 500 Companies, where I specialized in project management, teaching and mentoring. In my role, I managed projects from initial phases to the final product. Communicating and empathizing with customers has always been the most important element of my role. Recently, I became a hospice chaplain, however because of the pandemic, I decided to help people in another way and move into user experience design. Incorporating both my computer background, and creativity, I want to build satisfying product experiences and solutions. Now, I’m excited to start creating impactful experiences through design that will simplify people’s lives and have a positive impact on society.
