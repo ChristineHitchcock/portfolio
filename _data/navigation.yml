@@ -3,7 +3,7 @@ main:
     url: /posts/
   - title: "Resume"
     url: /categories/
-  - title: "Projects"
+  - title: "Portfolio"
     url: /tags/
   - title: "About Me"
     url: /about/
